@@ -1,0 +1,145 @@
+/*test.css*/
+.vrai
+{
+  color:black;
+  text-decoration:undline;
+  background-color: gray;
+  opacity: 0.5;
+  position: fixed;
+  font-size: 30px;
+  font-family: verdana;
+}
+.id
+{
+  text-align:center;
+  color:red;
+  text-decoration:oline
+}
+.kar{
+  text-align: center;
+  color:black;
+}
+.ka{
+  text-align: justify;
+  color:black;
+}
+#cool{
+  text-align: right;
+}
+.le{
+  text-decoration: none;
+  background-imageurl(pexels-samandgos-709552.jpg);
+  font-size: 2px;
+  padding: 10px 500px
+  margin:0px 10px;
+  text-decoration: none;
+  opacity: 0.7
+  background-color: black;
+}
+.de{
+  background-color:black;
+  padding: 1px 1px
+  margin: 10px;
+  font-size: 20px
+  opacity: 0.8;
+  position:fixed
+  text-align: center
+  list-style-type: none;
+  padding:10px 500px;
+  
+}
+button{
+  background-color: blue;
+  margin: 10px;
+  border-radius: 30px;
+  padding: 10px ;
+  
+
+  
+}
+.bb{
+  margin: 10px
+  font-size: 1px;
+}
+/*liste non ordonnée*/
+.gg
+{
+  color: red;
+}
+/*premier paragraphe*/
+.pr
+{
+  color: red;
+  text-align: center;
+  
+}
+/*deuxieme paragraphe*/
+.dx
+{
+  text-align: center;
+}
+/*troisieme paragraphe*/
+.tr
+{
+  text-align: center;
+  text-decoration: none
+}
+h1
+{
+  color:green
+  text-decoration: underline;
+}
+.yy
+{
+  text-align: center;
+  color: back
+  position: absolute;
+  top:50px;
+  left: 100px;
+}
+.ii{
+  text-align: center;
+  padding:15px;
+}
+/*cadre*/
+.dg
+{
+  color:blue
+}
+.bg{
+  color:white;
+  text-decoration: none;
+}
+{
+  text-decoration: none;
+}
+.df{
+  color:white;
+  text-decoration: none;
+}
+.mdm{
+  color:white;
+  text-decoration: none;
+}
+.ff{
+  padding:10px 40px;
+  text-align: center
+  
+}
+h5
+{
+  text-align: center;
+}
+body{
+  background-image:url(IMG_20241207_102559_717.jpg);
+  opacity: 0.8
+  padding:0 3000px
+  text-align:center;
+  
+}
+a{
+  text-decoration: none;
+}
+nav a:hover{
+  color:yellow;
+}
